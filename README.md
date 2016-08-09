@@ -13,5 +13,5 @@ Le but du projet était de créer un site de petites annonces avec une partie de
 <hr></hr>
 
 <p align="center">
-  <img src="https://cloud.githubusercontent.com/assets/16621838/17517091/114bc424-5e42-11e6-9bfb-f3aa9c8ff6cc.png" width="850"/>
+  <img src="https://cloud.githubusercontent.com/assets/16621838/17517377/7768ae60-5e43-11e6-84f9-3a2bf6717a8f.png" width="850"/>
 </p>
